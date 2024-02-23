@@ -1,0 +1,7 @@
+C:\Users\sun_k\source\repos\March8\bin\Debug\March8.exe.config
+C:\Users\sun_k\source\repos\March8\bin\Debug\March8.exe
+C:\Users\sun_k\source\repos\March8\bin\Debug\March8.pdb
+C:\Users\sun_k\source\repos\March8\obj\Debug\March8.csproj.AssemblyReference.cache
+C:\Users\sun_k\source\repos\March8\obj\Debug\March8.csproj.CoreCompileInputs.cache
+C:\Users\sun_k\source\repos\March8\obj\Debug\March8.exe
+C:\Users\sun_k\source\repos\March8\obj\Debug\March8.pdb
